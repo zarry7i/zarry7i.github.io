@@ -1,6 +1,6 @@
 # [ZARRAR HUSAIN KHAN](https://zarry7i.github.io/)
 
-![zarrar-husain-khan](assets/ZH7.gif)
+![zarrar-husain-khan](zh7-shot.png)
 
 ## Table of Contents
 * [Author](author)
